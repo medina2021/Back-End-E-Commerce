@@ -144,4 +144,4 @@ You'll need to execute association methods on your Sequelize models to create th
 
 ## Installation Instructions
 
-Clone this repository to your computer. Create a .env file with your DB_NAME, DB_USER and DB_PW. Type "npm run seed to seed the data into MYSQL.
+Clone this repository into your computer. Create a .env file with your DB_NAME, DB_USER and DB_PW. Type "npm run seed to seed the data into MYSQL.
