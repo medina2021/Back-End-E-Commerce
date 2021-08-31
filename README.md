@@ -134,8 +134,8 @@ Your database should contain the following four models, including the requiremen
     * References the `Tag` model's `id`.
 ### Walk Through Video Link
 
-[Google Drive Link] (https://drive.google.com/file/d/1NGBViL4ShaZ9NDYhuVgR4WdvhcidI7-5/view?usp=sharing)
-[Youtube Link] (https://youtu.be/Zyycpdyn2F8)
+[Google Drive Link](https://drive.google.com/file/d/1NGBViL4ShaZ9NDYhuVgR4WdvhcidI7-5/view?usp=sharing)
+[Youtube Link](https://youtu.be/Zyycpdyn2F8)
 
 
 ### Associations
